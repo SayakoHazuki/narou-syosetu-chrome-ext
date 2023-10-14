@@ -9,7 +9,7 @@ P.S. This is designed specifically for Kiwi Browser (Android, a Chromium-based b
 - [x] Dark mode
 - [ ] Toggleable Dark mode
 - [X] Furigana
-- [ ] Toggleable Furigana
+- [X] Toggleable Furigana
 - [X] Phrase splitting
 - [ ] Quick Dictionary Lookup
 
