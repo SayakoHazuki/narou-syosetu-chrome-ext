@@ -17,5 +17,6 @@ P.S. This is designed specifically for Kiwi Browser (Android, a Chromium-based b
 
 <img src="https://raw.githubusercontent.com/SayakoHazuki/narou-syosetu-chrome-ext/main/sample/sample_android.jpg" width="256" height="569" alt="Sample screenshot, shot on Kiwi Browser Android" />
 
+<img src="https://u.xgoo.jp/img/sgoo.png" width="128" height="54"    alt="Supported by Goo" />  
+
 Supported by Goo.
-<img src="https://u.xgoo.jp/img/sgoo.png" width="128" height="54"    alt="Supported by Goo" />
