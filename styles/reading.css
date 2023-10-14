@@ -57,3 +57,104 @@ html #novel_color.customlayout6,
 html #novel_color.customlayout7 {
   color: #ddd;
 }
+
+/* text highlighting color variables (8 colors in total) */
+#novel_honbun {
+  /* all colors should be clear on top of black background */
+  --color1: #cbe4f9;
+  --color2: #cdf5f6;
+  --color3: #eff9da;
+  --color4: #f9ebdf;
+  --color5: #f9d8d6;
+  --color6: #d6cdea;
+}
+
+/* color 1 */
+ruby.noun {
+  color: var(--color1);
+  font-weight: bolder;
+}
+ruby.noun_suffix {
+  color: var(--color1);
+  text-decoration: underline;
+}
+ruby.pre_noun {
+  color: var(--color1);
+  font: italic;
+}
+ruby.auxiliary_noun {
+  color: var(--color3);
+}
+
+/* color 2 */
+ruby.verb_stem {
+  color: var(--color2);
+  font-weight: bolder;
+}
+ruby.verb_conjugation_suffix {
+  color: var(--color2);
+  text-decoration: underline;
+}
+ruby.verb_suffix {
+  color: var(--color2);
+  text-decoration: dashed underline;
+}
+ruby.pre_verb {
+  color: var(--color2);
+  text-decoration: italic;
+}
+
+/* color 3 */
+ruby.adjective_stem {
+  color: var(--color3);
+  font-weight: bolder;
+}
+ruby.adjective_suffix {
+  color: var(--color3);
+  text-decoration: underline;
+}
+ruby.pre_adjective {
+  color: var(--color3);
+  font: italic;
+}
+
+/* color 4 */
+ruby.adnominal {
+  color: var(--color4);
+}
+ruby.adverbial {
+  color: var(--color4);
+  text-decoration: underline;
+}
+ruby.conjunction {
+  color: var(--color5);
+  text-decoration: dotted underline;
+}
+
+/* color 5 */
+ruby.interjection {
+  color: var(--color6);
+}
+ruby.connective_suffix {
+  color: var(--color6);
+  text-decoration: underline;
+}
+ruby.predicate {
+  color: var(--color6);
+}
+ruby.case_particle {
+  color: var(--color6);
+}
+ruby.quotation_particle {
+  color: var(--color6);
+  text-decoration: dotted underline;
+}
+ruby.continuative_particle {
+  color: var(--color6);
+}
+ruby.final_particle {
+  color: var(--color6);
+}
+ruby.parenthesis {
+  color: var(--color6);
+}
