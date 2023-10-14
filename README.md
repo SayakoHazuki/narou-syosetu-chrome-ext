@@ -1,4 +1,4 @@
-![App Icon](https://raw.githubusercontent.com/SayakoHazuki/narou-syosetu-chrome-ext/main/images/icon-128.png)
+![App Icon](https://raw.githubusercontent.com/SayakoHazuki/narou-syosetu-chrome-ext/main/images/icon-128.png | width = 64)
 
 # Narou Syosetu for Japanese Learners (Chrome Extension)
 
@@ -15,7 +15,7 @@ P.S. This is designed specifically for Kiwi Browser (Android, a Chromium-based b
 
 ## Sample screenshot
 
-![Sample screenshot, shot on Kiwi Browser Android](https://raw.githubusercontent.com/SayakoHazuki/narou-syosetu-chrome-ext/main/sample/sample_android.jpg)
+![Sample screenshot, shot on Kiwi Browser Android](https://raw.githubusercontent.com/SayakoHazuki/narou-syosetu-chrome-ext/main/sample/sample_android.jpg | width=256)
 
 Supported by Goo.
-[![Supported by Goo](https://u.xgoo.jp/img/sgoo.png)](http://www.goo.ne.jp/)
+[![Supported by Goo](https://u.xgoo.jp/img/sgoo.png)](http://www.goo.ne.jp/ | width = 128)
