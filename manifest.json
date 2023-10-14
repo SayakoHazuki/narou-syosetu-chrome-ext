@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Narou Syosetu for Japanese Learners",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add the reading time to Chrome Extension documentation articles",
 
   "icons": {
@@ -13,7 +13,15 @@
   "content_scripts": [
     {
       "js": ["scripts/content.js"],
-      "matches": ["https://ncode.syosetu.com/*/*"]
+      "css": ["styles/reading.css"],
+      "matches": ["https://ncode.syosetu.com/*/*"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["styles/reading.css"],
+      "matches": ["https://ncode.syosetu.com/*"]
     }
   ]
 }

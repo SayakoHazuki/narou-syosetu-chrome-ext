@@ -1,0 +1,59 @@
+html {
+  background: #444 !important;
+  color: white !important;
+}
+
+body {
+  background: #555 !important;
+  color: white !important;
+}
+
+div#novel_header,
+div#header_main {
+  background: #444;
+  color: white;
+}
+
+.novelview_navi > ul#head_nav {
+  background: #111;
+  color: white;
+}
+
+.novelview_navi > ul#head_nav li a {
+  color: white;
+}
+div#header_main a.list,
+div#header_main a.xlist {
+  color: white;
+}
+html ul#bkm li.bookmark_now a {
+  color: white;
+}
+
+html a#bottom_link,
+html body.customlayout4 .upper a:visited,
+html #novel_contents.customlayout4 a:visited,
+html #novel_contents.customlayout4 .customlayout-color a:visited {
+  color: /* gray */ #fff;
+}
+
+html a,
+html a#home,
+html a#xhome,
+html a#login,
+html body.customlayout4 .upper a:link,
+html #novel_contents.customlayout4 a:link,
+html #novel_contents.customlayout4 .customlayout-color a:link {
+  color: #ccc;
+}
+
+html #novel_color,
+html #novel_color.customlayout1,
+html #novel_color.customlayout2,
+html #novel_color.customlayout3,
+html #novel_color.customlayout4,
+html #novel_color.customlayout5,
+html #novel_color.customlayout6,
+html #novel_color.customlayout7 {
+  color: #ddd;
+}
